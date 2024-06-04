@@ -1,6 +1,6 @@
 Proyecto Hotel 
 
-Grupo N 8
+Grupo N 7
 
 *Iván Alexander Fernández Cañar
 
