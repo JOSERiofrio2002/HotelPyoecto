@@ -2,11 +2,15 @@ Proyecto Hotel
 
 Grupo N 8
 
-Iván Alexander Fernández Cañar
-Jorge Luis Luzuriaga Betancourt
-Richard Vicente Cajas Riofrío   
-Ariel Ismael González Astudillo
-José Francisco Riofrío Maldonado
+*Iván Alexander Fernández Cañar
+
+*Jorge Luis Luzuriaga Betancourt
+
+*Richard Vicente Cajas Riofrío
+
+*Ariel Ismael González Astudillo
+
+*José Francisco Riofrío Maldonado
 
 
 
